@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.python-version
+
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Local development
+*.sql
+*.db
+
+# Streamlit
+.config/
